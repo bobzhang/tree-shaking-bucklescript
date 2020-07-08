@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bs-platform": "^8.0.3",
+    "rollup": "^2.21.0"
+  },
+  "scripts": {
+    "bundle" : "npx rollup src/demo.bs.js > src/main.js"
+  }
+}
